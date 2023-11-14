@@ -1,0 +1,14 @@
+ion-icon{
+    font-size: 60px;
+    color: black;
+}
+.reku{
+    display: flexbox;
+}
+.bg{
+    display: inline-flex;
+}
+.MI{
+    justify-content: space-between;
+    display: flex;
+}
